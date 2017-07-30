@@ -12,7 +12,7 @@ public class bola : MonoBehaviour {
 	void Start () {
 		figura = GetComponent<SpriteRenderer> ();
 		figura.color = sorteioCor ();
-
+		int i;
 		
 	}
 	
