@@ -8,6 +8,7 @@ public class spawnBolas : MonoBehaviour {
 	public GameObject	bola;
 	private float		timer;
 	public float		tempoSpawn;
+	public int testegit;
 
 	// Use this for initialization
 	void Start () {
