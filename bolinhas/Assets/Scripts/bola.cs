@@ -6,6 +6,7 @@ public class bola : MonoBehaviour {
 
 	private SpriteRenderer figura;
 	private int	codigoCor;
+	public int testegit;
 
 
 	// Use this for initialization
